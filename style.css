@@ -1,0 +1,41 @@
+body
+ {
+    color: rgb(58, 24, 58);
+    background-color: #8798d1bd;
+    font-family: Georgia, "Times New Roman",
+    Times, serif;
+    padding-left: 11em;
+ }
+ h1 
+ {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+ul.navbar
+ {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul.navbar li 
+{
+    background: blanchedalmond;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border: 1em unset rgb(2, 86, 107) 
+}
+  ul.navbar a
+{
+    text-decoration: solid
+}
+  a:link 
+{
+    color: rgb(166, 166, 216) 
+}
+  a:visited 
+{
+    color: rgb(47, 58, 16) 
+}
